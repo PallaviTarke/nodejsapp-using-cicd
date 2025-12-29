@@ -1,4 +1,4 @@
-name: Deploy Node.js App to nodejs VM
+name: Deploy Node.js App to GCP VM
 
 on:
   push:
